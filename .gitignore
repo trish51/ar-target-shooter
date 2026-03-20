@@ -21,3 +21,10 @@ MemoryCaptures/
 # OS
 .DS_Store
 Thumbs.db
+
+Logs/
+UserSettings/
+Backup/
+*.slnx
+*.csproj
+UpgradeLog.htm
